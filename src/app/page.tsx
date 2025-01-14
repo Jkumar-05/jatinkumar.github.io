@@ -13,14 +13,14 @@ export default function HomePage () {
 <div style={{
     background: "radial-gradient(600px at 512px 413px, rgba(29, 78, 216, 0.5), transparent 80%)",
 height: "100vh" 
-} 
-   }
+} }
+   
    >
     
   <h1 style={{
     color: "whitesmoke", 
     fontSize : "50px", 
-    position: "absolute",
+    position: "absolute", 
     left: "30px",
     top: "67.5px",
     fontFamily: "Montserrat"}}>
@@ -54,7 +54,7 @@ height: "100vh"
     
     Hello, my name is Jatin Kumar, and I am an  aspiring software engineer with a 
      strong passion for developing impactful and innovative solutions. Currently, 
-     I am gaining valuable experience as an  intern at a fitness app company called 
+     I am gaining valuable experience as an  intern at a fitness app called 
      BawsHuman, where I am learning the ins and outs of the industry.
     <br></br>
     <br></br>
@@ -112,6 +112,8 @@ height: "100vh"
   bottom: "10px",
   left: '80px'}}></FontAwesomeIcon>
 </a>
+
+<p>Here is a test for my first Pull Request</p>
 
 
 
